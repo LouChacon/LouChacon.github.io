@@ -42,12 +42,13 @@ nav a:active, nav a:hover, nav a:visited, nav a:link {
 }
 
 nav a:hover {
-    font-weight: bold;
+    font-style: bold;
     background-color: #0080FF;
 }
 
 main{
-	color:#0080FF;
+	color: white;
+	font-style: oblique;
 }
 section{
 	width: 90%;
