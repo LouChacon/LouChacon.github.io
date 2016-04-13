@@ -17,31 +17,28 @@ header h1 {
 	text-align: center; 
 	margin-right: 15px;
 }
-
-nav {
-	padding: 10px;
+nav ul {
+    list-style-type: none;
+    padding: 0;
 }
 
-nav ul{
-	list-style-type: none
-	text-align: left;
+nav li {
+    display: inline;
+    padding: 5px;
 }
 
-nav ul li {
-	display: inline-block;
-	margin: 0 5px;
-	font-size: 20px;
-}
-li a:link, li a:active, li a:hover, li a:visited {
-	color: #d9d9d9;
-	text-decoration: none;
+nav a:active, nav a:hover, nav a:visited, nav a:link {
+    text-decoration: none;
+    color: #000000;
 }
 
-li a:hover {
-	text-decoration: underline;
-	font-weight: bold;
-color: #2E64FE;
-} 
+nav a:hover {
+    font-weight: bold;
+    background-color: #cccccc;
+}
+
+
+
 main{
 	color:#0080FF;
 }
