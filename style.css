@@ -29,7 +29,8 @@ header, footer {
 nav ul {
     list-style-type: none;
     padding: 0;
-    font-size: 25px
+    font-size: 15px;
+    background-color: #0080ff
 }
 
 nav li {
