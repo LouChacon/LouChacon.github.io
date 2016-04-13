@@ -30,7 +30,7 @@ nav ul {
     list-style-type: none;
     padding: 0;
     font-size: 15px;
-    background-color: #0080ff
+    background-color: #99ccff
 }
 
 nav li {
@@ -45,7 +45,7 @@ nav a:active, nav a:hover, nav a:visited, nav a:link {
 
 nav a:hover {
     font-weight: bold;
-    background-color: #99ccff;
+    background-color: #0080ff;
 }
 
 main{
@@ -65,6 +65,7 @@ aside{
 footer{
 	clear: both;
 	text-align: bottom-center;
-    color: #99ccff
+    color:#0080ff;
+    background-color: #99ccff
 }
 
