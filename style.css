@@ -49,7 +49,8 @@ nav a:hover {
 }
 
 main{
-	color:#0080FF;
+	color:#white;
+	background-color: #0080FF;
 }
 section{
 	width: 90%;
