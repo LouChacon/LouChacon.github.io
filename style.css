@@ -27,6 +27,7 @@ header h1 {
 nav ul {
     list-style-type: none;
     padding: 0;
+    background-color: #99ccff;
 }
 
 nav li {
@@ -36,12 +37,12 @@ nav li {
 
 nav a:active, nav a:hover, nav a:visited, nav a:link {
     text-decoration: none;
-    color: #000000;
+    color: white;
 }
 
 nav a:hover {
     font-weight: bold;
-    background-color:#99ccff;
+    background-color: #0080FF;
 }
 
 main{
@@ -62,6 +63,6 @@ footer{
 	clear: both;
 	text-align: bottom-center;
     color: white;
-    background-color: #99ccff
+    background-color: #99ccff;
 }
 
