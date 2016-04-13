@@ -11,10 +11,7 @@ font-style: bold
 	margin: 0 auto;
 }
 
-header {
-	background-color: #586ba4;
-	padding-top: 10px;
-}
+header {padding-top: 10px;}
 
 header h1 {
 	text-align: center; 
@@ -47,7 +44,6 @@ li a:hover {
 color: #2E64FE;
 } 
 main{
-	background-color:#81BEF7;
 	color:#0080FF;
 }
 footer{
