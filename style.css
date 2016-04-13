@@ -7,8 +7,13 @@ font-style: bold
 }
 
 .container{
-	width: 80%;
-	margin: 0 auto;
+	width: 960px; /* creates a fixed width layout of 960px wide */
+    margin: 0 auto; /* removes margin from top/bottom, automatically  */
+
+}
+
+.logo {
+    border-radius: 50%;
 }
 
 header {padding-top: 10px;}
@@ -17,6 +22,7 @@ header h1 {
 	text-align: center; 
 	margin-right: 15px;
 }
+
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -36,8 +42,6 @@ nav a:hover {
     font-weight: bold;
     background-color: #cccccc;
 }
-
-
 
 main{
 	color:#0080FF;
