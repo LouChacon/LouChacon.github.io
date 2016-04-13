@@ -29,6 +29,7 @@ header, footer {
 nav ul {
     list-style-type: none;
     padding: 0;
+    font-size: 60px
 }
 
 nav li {
@@ -52,7 +53,6 @@ main{
 footer{
 	text-align: center;
 	color: #2E64FE
-        font-weight: 60px;
 }
 section{
 	width: 90%;
