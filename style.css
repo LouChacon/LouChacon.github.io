@@ -30,7 +30,11 @@ header, footer {
 nav ul {
     list-style-type: none;
     padding: 0;
-    text-align: center; 
+    margin: 0;
+    width: 60px
+}
+li a {
+    display: block;
 }
 
 nav li {
