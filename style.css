@@ -33,9 +33,6 @@ nav ul {
     margin: 0;
     width: 60px
 }
-li a {
-    display: block;
-}
 
 nav li {
     display: inline;
@@ -74,4 +71,14 @@ aside{
 footer{
 	clear: both;
 	text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+} 
+
+li a {
+    display: block;
 }
