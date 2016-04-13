@@ -16,11 +16,13 @@ font-style: bold
     border-radius: 50%;
 }
 
-header {padding-top: 10px;}
+header {padding-top: 25px;}
 
 header h1 {
 	text-align: center; 
 	margin-right: 15px;
+	background-color: #0080FF;
+	color: white
 }
 header, footer {
     text-align: center;
@@ -49,8 +51,7 @@ nav a:hover {
 }
 
 main{
-	color:#white;
-	background-color: #0080FF;
+	color:#0080FF;
 }
 section{
 	width: 90%;
