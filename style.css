@@ -45,15 +45,11 @@ nav a:active, nav a:hover, nav a:visited, nav a:link {
 
 nav a:hover {
     font-weight: bold;
-    background-color: #cccccc;
+    background-color: #99ccff;
 }
 
 main{
 	color:#0080FF;
-}
-footer{
-	text-align: center;
-	color: #2E64FE
 }
 section{
 	width: 90%;
@@ -68,6 +64,7 @@ aside{
 }
 footer{
 	clear: both;
-	text-align: center;
+	text-align: bottom-center;
+    color: #99ccff
 }
 
