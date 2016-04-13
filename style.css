@@ -41,7 +41,7 @@ nav a:active, nav a:hover, nav a:visited, nav a:link {
 
 nav a:hover {
     font-weight: bold;
-    background-color: #cccccc;
+    background-color:#99ccff;
 }
 
 main{
@@ -61,7 +61,7 @@ aside{
 footer{
 	clear: both;
 	text-align: bottom-center;
-    color: #white;
+    color: white;
     background-color: #99ccff
 }
 
