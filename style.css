@@ -1,6 +1,9 @@
 body {
 	
-	background-image: url(images/homepage.jpg); /* adds a bg image */
+background-image: url(images/homepage.jpg); 
+background-size: 1280px 1000px;
+background-repeat: no-repeat;
+background-position: relative;
 font-family: Times;
 font-style: bold
 }
