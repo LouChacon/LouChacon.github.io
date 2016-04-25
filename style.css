@@ -27,7 +27,7 @@ header h1 {
 nav ul {
     list-style-type: none;
     padding: 0;
-    background-color: #99ccff;
+    background-image: url(images/borderoflinks.jpg);
     text-align: center;
 }
 
