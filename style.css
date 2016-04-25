@@ -20,7 +20,7 @@ header {padding-top: 25px;}
 header h1 {
 	text-align: center; 
 	margin-right: 15px;
-	background-color: #99ccff;
+	    background-image: url(images/borderoflinks.jpg);
 	color: white
 }
 nav ul {
