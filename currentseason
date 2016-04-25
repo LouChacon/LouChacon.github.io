@@ -10,11 +10,10 @@
 	<nav>
 		<ul>
 		
-			<li><a href="#">Update Of Current Season</a></li>
-			<li><a href="#">Character Descriptions</a></li>
-			<li><a href="#">Current Romances</a></li>
-			<li><a href="#">Seasons 1-12</a></li>
-			<li><a href="#">Deaths In The Show</a></li>
+			<li><a href="currentseason.html"><b>Update Of Current Season</b></a></li>
+			<li><a href="characterdescriptions.html"><b>Character Descriptions</b></a></li>
+			<li><a href="romances.html"><b>Current Romances</b></a></li>
+			<li><a href="seasondescriptions.html"><b>Seasons 1-12</b></a></li>
 		</ul>
 	</nav>
 	</div>
