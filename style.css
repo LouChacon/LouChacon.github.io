@@ -70,4 +70,7 @@ footer{
     color: white;
     background-image: url(images/borderoflinks.jpg);
 }
-p{text-align: center;}
+p{text-align: center;
+color: white;
+font-size: 30px;
+background-color:#99ccff;}
