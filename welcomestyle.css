@@ -1,0 +1,33 @@
+body, html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: 'Open Sans', times;
+	background-image: url("images/greysloanhospital.gif"); 
+	background-position:  center; 
+	background-attachment: fixed;
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	background-color:#99ccff; 
+	margin: 0;
+	display: table;
+}
+
+.container {
+	display: table-cell;
+	text-align: center; 
+	vertical-align: middle; 
+}
+
+a:active, a:hover, a:visited, a:link {
+	text-decoration: none; 
+	color: #000; 
+}
+
+a:hover {
+	font-weight: bold;
+	color:red;
+	background-color: orange; 
+}
