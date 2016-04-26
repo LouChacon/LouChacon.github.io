@@ -4,7 +4,7 @@ body, html {
 }
 
 body {
-	font-family: 'Open Sans', times;
+	font-family:times;
 	background-image: url("images/greysloanhospital.gif"); 
 	background-position:  center; 
 	background-attachment: fixed;
@@ -23,11 +23,11 @@ body {
 
 a:active, a:hover, a:visited, a:link {
 	text-decoration: none; 
-	color: #white; 
+	color: white; 
 }
 
 a:hover {
 	font-weight: bold;
-	color:red;
-	background-color: orange; 
+	color:white;
+	background-color: #99ccff; 
 }
