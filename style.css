@@ -31,6 +31,8 @@ nav ul {
     padding: 75px;
     background-image: url(images/borderoflinks.jpg);
     text-align: center;
+    background-repeat: repeat;
+
 }
 
 nav li {
