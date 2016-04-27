@@ -51,10 +51,9 @@ nav a:hover {
 }
 
 main{
-	color: black;
+	color: white;
 	font-style: bold;
 	font-size: 15px;
-	p{color:white;
         background-color: #99ccff;
 }
 }
