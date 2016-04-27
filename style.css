@@ -54,8 +54,9 @@ main{
 	color: white;
 	font-style: bold;
 	font-size: 15px;
-        background-color: #99ccff;
 }
+p{ color:white;
+background-color: #99ccff;
 }
 section{
 	width: 90%;
