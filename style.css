@@ -54,6 +54,8 @@ main{
 	color: black;
 	font-style: bold;
 	font-size: 15px;
+	p{color:white;
+background-color: #99ccff;}
 }
 section{
 	width: 90%;
@@ -79,6 +81,4 @@ background-color:#99ccff;}
 iframe
 {display: inline;
 }
-p{color:white;
-background-color: #99ccff;}
 
